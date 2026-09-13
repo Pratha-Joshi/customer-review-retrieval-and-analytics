@@ -86,7 +86,3 @@ On September 11, 2026, the four methods were evaluated on the held-out 25-questi
 ## Limitations and next experiments
 
 Dense, hybrid, and reranker evaluation harnesses should be run only after downloading compact local models and freezing reviewed relevance labels. Planned experiments test—not assume—hybrid/reranker gains, alpha sweep, corpus scaling, latency (mean/P95), and review chunking only for unusually long reviews. See the technical report for decisions and risks.
-
-## Resume description
-
-Built an evidence-grounded customer review retrieval and analytics system with BM25, dense, hybrid, reranking-ready components, structured metadata filtering, auditable evaluation interfaces, and citation-first local-generation integration. Quantitative claims are intentionally deferred until measured.
