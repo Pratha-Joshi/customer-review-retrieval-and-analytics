@@ -1,0 +1,59 @@
+{
+  "review_count": 568454,
+  "product_count": 74258,
+  "rating_distribution": {
+    "1": 52268,
+    "2": 29769,
+    "3": 42640,
+    "4": 80655,
+    "5": 363122
+  },
+  "missing_values": {
+    "Id": 0,
+    "ProductId": 0,
+    "UserId": 0,
+    "ProfileName": 26,
+    "HelpfulnessNumerator": 0,
+    "HelpfulnessDenominator": 0,
+    "Score": 0,
+    "Time": 0,
+    "Summary": 0,
+    "Text": 0,
+    "helpfulness_ratio": 0,
+    "review_length": 0,
+    "word_count": 0,
+    "review_time": 0,
+    "review_year": 0,
+    "rating_bucket": 0
+  },
+  "review_length": {
+    "count": 568454.0,
+    "mean": 436.22208305333413,
+    "std": 445.33974093987683,
+    "min": 12.0,
+    "25%": 179.0,
+    "50%": 302.0,
+    "75%": 527.0,
+    "max": 21409.0
+  },
+  "reviews_per_product": {
+    "count": 74258.0,
+    "mean": 7.655121333728353,
+    "std": 26.453484529710682,
+    "min": 1.0,
+    "25%": 1.0,
+    "50%": 2.0,
+    "75%": 5.0,
+    "max": 913.0
+  },
+  "helpfulness": {
+    "count": 568454.0,
+    "mean": 0.4078619474101855,
+    "std": 0.46206838814397505,
+    "min": 0.0,
+    "25%": 0.0,
+    "50%": 0.0,
+    "75%": 1.0,
+    "max": 3.0
+  }
+}
